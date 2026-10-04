@@ -1,0 +1,14 @@
+# PyCharm IDE config
+.idea/
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter checkpoints & caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Optional: Ignore raw data if the CSV is large (>50MB-100MB)
+# data/
